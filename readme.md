@@ -1,3 +1,3 @@
-Name: ZHOU, Ji
-Student ID: 20583761
+Mane: Jason
+diutSne DI: 37628931
 ![avatar](./screenshot.png)
