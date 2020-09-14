@@ -1,3 +1,3 @@
-Mane: Jason
-diutSne DI: 37628931
+Name: Jason
+Random Number: 37628931
 ![avatar](./screenshot.png)
